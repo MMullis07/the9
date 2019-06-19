@@ -59,22 +59,22 @@ hr {
   }
   
   .slideshow li:nth-child(1) { 
-    background-image: url(https://drive.google.com/open?id=0B6-s9mP6QdS7QmtWZ25tX2FHdDNEalhrZHJ0dFkyU3o3S3Jv) 
+    background: url(https://drive.google.com/open?id=0B6-s9mP6QdS7QmtWZ25tX2FHdDNEalhrZHJ0dFkyU3o3S3Jv) 
   }
   .slideshow li:nth-child(2) { 
-    background-image: url(https://drive.google.com/open?id=0B6-s9mP6QdS7dWFGd0Z6dk1GMVowUlFrOHFBM01iS2EyMHJR);
+    background: url(https://drive.google.com/open?id=0B6-s9mP6QdS7dWFGd0Z6dk1GMVowUlFrOHFBM01iS2EyMHJR);
     animation-delay: 10s; 
   }
   .slideshow li:nth-child(3) { 
-    background-image: url(https://drive.google.com/open?id=0B6-s9mP6QdS7Uk5UNmdaVjZlWXhJMUFOcUhsb2Vicjk0V1NR);
+    background: url(https://drive.google.com/open?id=0B6-s9mP6QdS7Uk5UNmdaVjZlWXhJMUFOcUhsb2Vicjk0V1NR);
     animation-delay: 20s; 
   }
   .slideshow li:nth-child(4) { 
-    background-image: url(https://drive.google.com/open?id=0B6-s9mP6QdS7blhQc3lDRjFNeVVKNWljRDB1WjZvSDRUNnZj);
+    background: url(https://drive.google.com/open?id=0B6-s9mP6QdS7blhQc3lDRjFNeVVKNWljRDB1WjZvSDRUNnZj);
     animation-delay: 30s; 
   }
   .slideshow li:nth-child(5) { 
-    background-image: url(https://drive.google.com/open?id=0B6-s9mP6QdS7UjBiQlh0d2wtU1ZRQUpyYWIzTmotMHBMNUc4);
+    background: url(https://drive.google.com/open?id=0B6-s9mP6QdS7UjBiQlh0d2wtU1ZRQUpyYWIzTmotMHBMNUc4);
     animation-delay: 40s; 
   }
   
