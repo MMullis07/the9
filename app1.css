@@ -1,0 +1,29 @@
+html {
+	height: 100%;
+}
+
+body {
+	background: url(https://assets1.ignimgs.com/2019/04/17/avengersendgame-blogroll-2-1555518573008_1280w.jpg);
+	background-size: cover;	
+	background-position: center;
+	font-family: lato;
+	color: white;
+}
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+#content {
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px red,
+				 0px 8px 13px blue,
+				 0px 18px 23px yellow;
+				
+}
