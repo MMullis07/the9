@@ -21,6 +21,10 @@ hr {
 	border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 #content {
+	background: url("images/logo.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
 	text-align: center;
 	padding-top: 25%;
 	text-shadow: 0px 4px 3px red,
