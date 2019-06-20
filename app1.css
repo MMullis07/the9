@@ -4,7 +4,7 @@ html {
 
 body {
 	background-image: url("images/bats.jpg");
-	background: cover;
+	background-size: cover;
 	background-position: center;
 	font-family: lato;
 	color: white;
