@@ -5,6 +5,8 @@ html {
 body {
 	background-image: url("images/bats.jpg");
 	background-size: contain;
+	background: black;
+	background-repeat: no-repeat;
 	background-position: center;
 	font-family: lato;
 	color: white;
