@@ -3,7 +3,7 @@ html {
 }
 
 body {
-	background-image: url("./bats.jpg");
+	background-image: url("/bats.jpg");
 	background-position: center;
 	font-family: lato;
 	color: white;
