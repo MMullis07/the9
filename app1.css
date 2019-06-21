@@ -94,7 +94,7 @@ hr {
     background-position: 50% 50%;
     background-repeat: no-repeat;
     opacity: 0;
-    margin: 200px 0 25px 0;
+    margin: 150px 0 25px 0;
     padding: 25px 0 25px 0;
     z-index: 0;
     animation: imageAnimation 45s linear infinite; 
@@ -106,7 +106,7 @@ hr {
   .slideshow li:nth-child(2) { 
     background-image: url(images/aquadaddy.jpg);
     animation-delay: 5s; 
-  }
+  } 
   .slideshow li:nth-child(3) { 
     background-image: url(images/Capt.jpg);
     animation-delay: 10s; 
