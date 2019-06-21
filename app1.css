@@ -54,6 +54,16 @@ h1 {
 	font-weight: 700;
 	font-size: 5em;
 }
+.button::after {
+  content: "ENTER NOW";
+}
+.button:hover span{
+  content: none;
+  text-decoration: none;
+}
+.button:hover::after{
+  content:"bUt ThErE aRe TeN oF yOu?!"; 
+}
 
 hr {
 	width: 400px;
