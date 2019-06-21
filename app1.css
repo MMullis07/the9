@@ -1,6 +1,48 @@
 html {
 	height: 100%;
 }
+body {
+  background: #f5d9d5;
+  font-family: 'Nunito', sans-serif;
+}
+#mainNavbar .navbar-brand {
+  color: #EA1c2c;
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+#mainNavbar {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+#mainNavbar .nav-link {
+  color: white;
+}
+#mainNavbar .nav-link:hover {
+  color: #EA1c2c;
+}
+
+#headingGroup span {
+  color: #EA1c2c;
+}
+
+#landing-header a {
+  opacity: 1;
+}
+
+#landing-header {
+  z-index: 1;
+  background-image: url("images/logo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  text-align: center;
+  padding-top: 30vh;
+  margin: 250px 0 25px 0;
+  opacity: .75;
+}
 
 body {
 	background-repeat: no-repeat;
@@ -20,9 +62,7 @@ hr {
 }
 #content {
 	background: url("images/logo.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
+	
 	text-align: center;
 	padding-top: 50%;
 	text-shadow: 0px 4px 3px red,
