@@ -80,7 +80,7 @@ hr {
     animation-delay: 20s; 
   }
   .slideshow li:nth-child(6) { 
-    background-image: url(images/GL.jpg);
+    background-image: url(images/gl.jpg);
 	animation-delay: 25s; 
   }
   .slideshow li:nth-child(7) { 
