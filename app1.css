@@ -145,10 +145,10 @@ hr {
     background-image: url(images/ronin.jpg);
 	animation-delay: 40s; 
   }
-  /*.slideshow li:nth-child(10) { 
-    background-image: url(file:///C:/Users/Direwolf/Desktop/the9/images/IMG_2162.jpg);
+  .slideshow li:nth-child(10) { 
+    background-image: url(images/NSJL-30.jpg);
 	animation-delay: 45s; 
-  }*/
+  }
 
   @keyframes imageAnimation { 
     0% { 
